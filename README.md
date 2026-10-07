@@ -68,3 +68,13 @@ Linux               █████░░░░░  Learning
 Git & GitHub        ██████░░░░  Learning
 Data Analysis       ████░░░░░░  Exploring
 Artificial Intelligence ███░░░░░░░  Exploring
+
+## 🤝 Let's Connect
+
+💼 LinkedIn: [Akram Maali](https://www.linkedin.com/in/akram-maali-30655b388/)
+
+📧 Email: akram.maali.services@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
